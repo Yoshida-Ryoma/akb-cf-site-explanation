@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+}
+
+.main__font {
+    font-size: 50px;
+    color: black;
+}
+
+.sub__font {
+    font-size: 30px;
+    color: black;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.Table>ul>li>b>a {
+    color: black;
+    text-decoration: none;
+}
