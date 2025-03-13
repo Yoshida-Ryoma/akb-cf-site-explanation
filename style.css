@@ -20,6 +20,10 @@ li {
     list-style-type: none;
 }
 
+a {
+    color: blue;
+}
+
 .Table>ul>li>b>a {
     color: black;
     text-decoration: none;
